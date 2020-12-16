@@ -2,7 +2,7 @@
   Feature: Login functionality
     Background:
     Given user is in loginPage
-
+#master git
       Scenario: With valid Username and Password
         When User enters Username and Password
         Then User can Login successfully
